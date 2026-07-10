@@ -1,6 +1,6 @@
 # Desenvolvedor Fullstack C# — Landing Page
 
-Landing page pessoal desenvolvida em **React + Vite**, apresentando minha trajetória como Desenvolvedor Fullstack C#, minhas habilidades técnicas e meus projetos no GitHub.
+Apresentando minha trajetória como Desenvolvedor Fullstack , minhas habilidades técnicas e meus projetos no GitHub.
 
 🔗 **Site no ar:** [ladingpagepedro.vercel.app](https://ladingpagepedro.vercel.app/)
 
