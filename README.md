@@ -2,7 +2,7 @@
 
 Apresentando minha trajetória como Desenvolvedor Fullstack , minhas habilidades técnicas e meus projetos no GitHub.
 
-🔗 **Site no ar:** [ladingpagepedro.vercel.app](https://ladingpagepedro.vercel.app/)
+
 
 ## Sobre
 
