@@ -1,30 +1,4 @@
 
-Conversa com o Gemini
-crie um documento md para o github com efeitos tech usando somente experiencias de TI. Estou estudando html,css,JS, react nest e nextjs prisma
-
-Seu documento Markdown otimizado para o perfil do GitHub, com efeitos visuais tecnológicos (badges interativos, animação de digitação de texto via SVG, tabelas estilizadas e estatísticas dinâmicas) e focado exclusivamente nas suas competências e experiências em Tecnologia da Informação, está pronto!
-
-O arquivo foi gerado e salvo como README.md.
-Ícone do app MD
-README
- MD 
-Aberto
-
-O que foi incluído no documento:
-Efeitos Tech e Apresentação Visual: Cabeçalho centralizado com ícones interativos, divisor de seções e uma linha de código animada simulando digitação (Typing SVG).
-
-Foco Exclusivo em TI: Destaque para suas habilidades de programação e desenvolvimento (HTML, CSS, JavaScript, React, NestJS, Next.js, Prisma, C#, Java e automações).
-
-Stack Tecnológica em Tabela: Organização visual moderna dividida entre Frontend, Backend, Banco de Dados/ORM e Ferramentas.
-
-Projetos e Links: Seção dedicada aos seus projetos de código, incluindo referências diretas ao seu ecossistema de estudos e portfólio (pedroladingpage.vercel.app e GitHub).
-
-Estatísticas do GitHub Integradas: Blocos dinâmicos (github-readme-stats) estilizados com tema Tokio Night para exibir seus dados e linguagens mais usadas no repositório.
-
-
-
-
-O Gemini é uma IA e pode cometer erros.
 
 <div align="center">
 
